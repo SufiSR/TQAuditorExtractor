@@ -26,7 +26,7 @@ Includes a modern web interface, system tray integration, and graceful shutdown.
 2. Double-click the `.exe`
 3. Your browser will open `http://localhost:5000`
 4. Use the app
-5. To quit, right-click the red dot in the system tray → `Exit`
+5. To quit, right-click the cloud icon in the system tray → `Exit`
 
 > 💡 If you don't see the icon, check the tray overflow (`^` next to the clock)
 
