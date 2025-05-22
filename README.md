@@ -22,7 +22,7 @@ Includes a modern web interface, system tray integration, and graceful shutdown.
 
 ### 🔸 For Non-Technical Users
 
-1. Download `TQAuditorApp.exe` from [Releases](#)
+1. Download `TQAuditorApp.exe` from [Releases](https://github.com/SufiSR/TQAuditorExtractor/releases/tag/Executable)
 2. Double-click the `.exe`
 3. Your browser will open `http://localhost:5000`
 4. Use the app
