@@ -1,4 +1,3 @@
-```markdown
 # TQAuditor Extract Tool
 
 A lightweight, offline-friendly, no-installation-needed viewer for TQAuditor project data — built with 💻 Python, 🚀 Flask, and ☁️ PyInstaller.  
@@ -31,14 +30,14 @@ Includes a modern web interface, system tray integration, and graceful shutdown.
 
 > 💡 If you don't see the icon, check the tray overflow (`^` next to the clock)
 
----
+
 
 ### 🔹 For Developers
 
 #### 📁 Folder Structure
 
-```
 
+````
 project/
 ├── app.py               # Flask API logic
 ├── run\_server.py        # Tray app + launcher
@@ -119,7 +118,5 @@ This project was designed to help non-technical users easily browse project data
 ## 📃 License
 
 MIT License — do whatever you want, just don’t blame me 😄
-
-```
 
 ---
